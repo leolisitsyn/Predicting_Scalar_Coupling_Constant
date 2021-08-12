@@ -11,4 +11,4 @@ and their closest neighbours and interatomic angles.
 Other features like dihedral angles and further distances were not taken because of computational costs.
 
 Decision tree gives nice results but has a tendency to overfit, while neural network gives a nice predictions for
-large interactions and sufficient mistakes for small ones.
+large interactions and sufficient mistakes for small ones beacuse other atoms are involved in interaction.
